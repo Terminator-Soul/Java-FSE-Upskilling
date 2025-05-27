@@ -1,0 +1,138 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+
+
+/* Header Styles */
+header {
+    background-color: #007BFF;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+
+
+
+/* Navigation Styles */
+nav {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+}
+
+
+
+nav a {
+    color: white;
+    text-decoration: none;
+    padding: 10px 15px;
+}
+
+
+
+nav a:hover {
+    background-color: #575757;
+}
+
+
+
+/* Main Content Styles */
+main {
+    padding: 20px;
+}
+
+
+
+/* Welcome Banner Styles */
+#welcomeBanner {
+    background-color: blue;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+
+
+/* Event Image Styles */
+.event-image {
+    border: 2px solid #ccc;
+    width: 100%;
+    height: auto;
+}
+
+
+
+/* Form Styles */
+form {
+    background-color: white;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin: 20px 0;
+}
+
+
+
+form label {
+    display: block;
+    margin: 10px 0 5px;
+}
+
+
+
+form input, form select, form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+
+
+form button {
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+}
+
+
+
+form button:hover {
+    background-color: #0056b3;
+}
+
+
+
+/* Feedback Section Styles */
+#feedback {
+    margin-top: 20px;
+}
+
+
+
+/* Video Styles */
+video {
+    width: 100%;
+    height: auto;
+}
+
+
+
+/* Footer Styles */
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
